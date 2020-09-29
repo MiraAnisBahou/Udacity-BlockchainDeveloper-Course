@@ -10,7 +10,7 @@
 * Truffle Version: v5.1.45 (core: 5.1.45) 
 * Token Name: Mira
 * Token Symbol: AMN
-* Token Address on Ropsten Test Network: 0x0c7328597bc6fb5ac641e36cc308e92c7307c2de
+* Token Contract Address on **Ropsten Test Network**: 0x0c7328597bc6fb5ac641e36cc308e92c7307c2de
 
 ### Additional Information:
 * Solidity: v0.5.16 (solc-js)
